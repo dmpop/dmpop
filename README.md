@@ -6,11 +6,7 @@ I'm a professional technical writer, a full-time Linux user, and an amateur phot
 
 I'm not much of a coder, but I've cobbled together a handful of tools and scripts for my personal use. The fruits of my coding endeavors are available here.
 
-I do have a proper website too: [Tōkyō Made](https://tokyoma.de/)
-
-### 📊 Pretty stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dmpop&show_icons=true)
+I do have a proper website too: [Camera, code, coffee](https://cameracode.coffee/)
 
 <!--
 **dmpop/dmpop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
